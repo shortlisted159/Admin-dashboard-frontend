@@ -13,9 +13,11 @@ https://animated-vacherin-f1f91b.netlify.app/
 
 ### Glimpses of the project
 ![Screenshot (94)](https://user-images.githubusercontent.com/64829176/229115379-9c325b03-4d8f-4880-91dd-df9badf004ff.png)
-<br>
+<br><br>
 ![Screenshot (100)](https://user-images.githubusercontent.com/64829176/229115547-c9eb6878-9bcf-4fd4-a3ee-5d4e6061d2cd.png)
-<br>
+<br><br>
 ![Screenshot (98)](https://user-images.githubusercontent.com/64829176/229115720-e038d0f5-149c-48b9-b4e6-02d425bdc354.png)
-<br>
+<br><br>
 ![Screenshot (97)](https://user-images.githubusercontent.com/64829176/229115785-074f3fa1-fa2d-4ce6-9360-430837ae8602.png)
+<br><br>
+
