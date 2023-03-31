@@ -1,9 +1,7 @@
 # Admin App (Frontend)
-This is a conceptualisation of a dashboard that managers / business owners might use to<br>
-manage their business.<br>
-There is a dashboard that shows the total overview of the app and there are charts to <br>
-help display the business figures. There is even a calendar page made using the Fullcalendar library that<br>
-has tons of functionalities.<br> 
+This is a conceptualisation of a dashboard that managers / business owners might use to manage their business.<br>
+There is a dashboard that shows the total overview of the app and there are charts to help display the business figures.<br>
+There is even a calendar page made using the Fullcalendar library that has tons of functionalities.<br> 
 P.S. - This project only covers the frontend.
 
 ## Dependencies
