@@ -22,5 +22,8 @@ https://animated-vacherin-f1f91b.netlify.app/
 <br><br>
 ![Screenshot (99)](https://user-images.githubusercontent.com/64829176/229116095-45501b48-3da0-4be7-9509-603c2ba68045.png)
 <br><br>
+![Screenshot (95)](https://user-images.githubusercontent.com/64829176/229116380-6a877732-8f93-4849-baa2-d5a1589ae55b.png)
+<br><br>
+![Screenshot (95)](https://user-images.githubusercontent.com/64829176/229116421-21812b4c-c4a2-461c-8846-7db171c6fc9c.png)
 
 
