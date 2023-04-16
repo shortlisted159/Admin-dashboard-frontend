@@ -27,6 +27,12 @@ https://animated-vacherin-f1f91b.netlify.app/
 
 
 ### Deployment
+```bash
+npm run build
+```
+For the other installments use the default npm install commands, to avoid the version conflicts checkout the json file.
+
+
 
 
 
